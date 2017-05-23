@@ -1,0 +1,12 @@
+div#container{
+	background-color: gray;
+	width: 20%;
+	margin:auto;
+	text-align: center;
+}
+div#logo{
+	
+}
+#buttons{
+	float: clear;
+}
