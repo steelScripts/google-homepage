@@ -1,11 +1,31 @@
 div#container{
-	background-color: gray;
 	width: 20%;
 	margin:auto;
+	margin-top: 10%;
 	text-align: center;
 }
-div#logo{
-	
+#logo{
+	display: block;
+	margin: auto;
+	float: none;
+	text-decoration: none;
+	font-family: verdana;
+}
+.blue{
+	float:left;
+	color: blue;
+}
+.red{
+	float:left;
+	color: red;
+}
+.yellow{
+	float:left;
+	color: yellow;
+}
+.green{
+	float:left;
+	color: green;
 }
 #buttons{
 	float: clear;
